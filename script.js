@@ -1,5 +1,5 @@
 const messages = [
-  "i adore you like, a little lot lot lots.💗"
+  "i adore nadia like, a little lot lot lots.💗"
 ];
 
 function generateRandomNotifications() {
